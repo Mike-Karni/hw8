@@ -1,0 +1,5 @@
+id;par_id;name;surname;bd
+1;1;Egor;Ivanov;01.08.2010
+2;1;Misha;Ivanov;02.08.2012
+3;3;Petya;Petrov;03.08.2018
+4;3;Vasya;Petrov;03.08.2018

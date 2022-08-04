@@ -1,0 +1,6 @@
+id;position
+1;programmer
+2;talker
+3;specialist
+4;manager
+5;engineer

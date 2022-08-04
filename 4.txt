@@ -1,0 +1,6 @@
+id;salary
+1;100k
+2;big salary
+3;80k
+4;300k
+5;90k
